@@ -25,7 +25,7 @@ export default function UserCard() {
         <div className="flex items-center gap-2">
           <h3 className="text-3xl font-bold min-w-0 overflow-hidden">Fau Santos</h3>
         </div>
-        <p className="opacity-40">"Desenvolvendo soluções"</p>
+        <p className="opacity-40">&apos;Desenvolvendo soluções&apos;</p>
       </div>
       <div className="flex flex-col gap-2 w-full">
         <span className="uppercase text-xl font-medium">Links</span>
