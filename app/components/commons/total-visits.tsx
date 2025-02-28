@@ -1,4 +1,3 @@
-import Button from "@/app/ui/button"
 import { FaUpDown } from "react-icons/fa6"
 
 export default function TotalVisits() {
