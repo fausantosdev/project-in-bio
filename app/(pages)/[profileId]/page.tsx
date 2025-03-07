@@ -5,9 +5,9 @@ import Link from "next/link"
 import { FaPlus } from "react-icons/fa"
 
 type Props = {
-  params: {
-    profileId: string
-  }
+  params: Promise<{ 
+    profileId: string 
+  }>
 }
 
 export default async function Profile({ params }: Props) {
